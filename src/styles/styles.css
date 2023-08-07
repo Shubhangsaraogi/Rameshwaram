@@ -1,0 +1,58 @@
+
+.bg-img{
+    background-image: url(https://images.unsplash.com/photo-1582407947304-fd86f028f716?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNjI5NjF8MHwxfHNlYXJjaHwxfHxSZWFsJTIwZXN0YXRlfGVufDB8fHx8MTY5MTI0NTMzMHww&ixlib=rb-4.0.3&q=80&w=1080);
+    background-position: center center;
+    background-size: cover;
+    min-height: calc(100vh - 0px);
+    margin-top: -79px;
+    padding-top: 79px;
+}
+#banner-0{
+    min-height: 100vh;
+}
+.website-header{
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+    position: relative;
+}
+.header-grid-bg{
+    grid-template-columns: auto auto auto;
+    background-color: rgb(0, 0, 0,0.5);
+}
+.logo{
+    color: white;
+    font-family: 'Ubuntu','sans-serif';
+    font-weight: 700;
+}
+.featured{
+    background: url('../styles/img/greenStreets.jfif');
+    background-position: center center;
+    background-size: cover;
+    min-height: 240px;
+}
+.featured img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    box-sizing: border-box;
+    padding: 0;
+    border: 'none';
+    margin: auto;
+    display: block;
+    width: 0;
+    height: 0;
+    min-width: 100%;
+    max-width: 100%;
+    min-height: 100%;
+    max-height: 100%;
+    object-fit: cover;
+    object-position: center center;
+}
+.team{
+    background: url('../styles/img/houseWithSwimmingPool.jfif');
+    background-position: center center;
+    background-size: cover;
+    min-height: 240px;
+}
