@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Rameshwaram/static/css/main.041a3c61.css",
+    "main.js": "/Rameshwaram/static/js/main.d12bbe9b.js",
+    "static/js/787.1f5653f8.chunk.js": "/Rameshwaram/static/js/787.1f5653f8.chunk.js",
+    "static/media/map.png": "/Rameshwaram/static/media/map.b4f3bcb335e1b1958700.png",
+    "static/media/greenStreets.jfif": "/Rameshwaram/static/media/greenStreets.da39e141baa5a647d82c.jfif",
+    "static/media/workingOnLap.jfif": "/Rameshwaram/static/media/workingOnLap.dc5812c8f0473deeb18e.jfif",
+    "static/media/houseWithSwimmingPool.jfif": "/Rameshwaram/static/media/houseWithSwimmingPool.3fa820509590854f22c3.jfif",
+    "static/media/modernHome.jfif": "/Rameshwaram/static/media/modernHome.74d56c7740e740d23f0f.jfif",
+    "static/media/woodenHouseGreenGarden.jfif": "/Rameshwaram/static/media/woodenHouseGreenGarden.2d184f87b87e58cc39be.jfif",
+    "static/media/blueBigHome.jfif": "/Rameshwaram/static/media/blueBigHome.a4c96af03502358ab310.jfif",
+    "index.html": "/Rameshwaram/index.html",
+    "main.041a3c61.css.map": "/Rameshwaram/static/css/main.041a3c61.css.map",
+    "main.d12bbe9b.js.map": "/Rameshwaram/static/js/main.d12bbe9b.js.map",
+    "787.1f5653f8.chunk.js.map": "/Rameshwaram/static/js/787.1f5653f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.041a3c61.css",
+    "static/js/main.d12bbe9b.js"
+  ]
+}
